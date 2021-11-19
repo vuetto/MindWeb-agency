@@ -1,3 +1,4 @@
 # Redirects from what the browser requests to what we serve
 /meeting            https://us05web.zoom.us/j/4845007231?pwd=SXc4Qi9HUnFpb3V3U2MyUXlXQkJXUT09
 /apply            https://meetings.hubspot.com/ugo-varlet
+/to-start/index.html            /to-apply
